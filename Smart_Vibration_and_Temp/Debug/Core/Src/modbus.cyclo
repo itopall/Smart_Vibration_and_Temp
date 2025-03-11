@@ -1,0 +1,3 @@
+../Core/Src/modbus.c:9:17:Modbus_ReadHoldingRegisters	5
+../Core/Src/modbus.c:51:17:Modbus_WriteSingleRegister	3
+../Core/Src/modbus.c:87:10:Modbus_CRC16	4

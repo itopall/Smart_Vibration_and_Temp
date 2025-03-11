@@ -1,0 +1,5 @@
+../Core/Src/tasks.c:10:6:vVibrationTask	1
+../Core/Src/tasks.c:35:6:vTempTask	1
+../Core/Src/tasks.c:57:6:vCANBusTask	1
+../Core/Src/tasks.c:78:6:vLoRaTask	1
+../Core/Src/tasks.c:112:6:vWiFiTask	1

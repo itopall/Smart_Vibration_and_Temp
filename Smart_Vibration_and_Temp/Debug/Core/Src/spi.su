@@ -1,0 +1,7 @@
+../Core/Src/spi.c:26:6:MX_SPI1_Init	8	static
+../Core/Src/spi.c:58:6:HAL_SPI_MspInit	48	static
+../Core/Src/spi.c:89:6:HAL_SPI_MspDeInit	16	static
+../Core/Src/spi.c:112:19:SPI_WriteReg	24	static
+../Core/Src/spi.c:121:19:SPI_ReadReg	40	static
+../Core/Src/spi.c:130:19:SPI_WriteMulti	32	static
+../Core/Src/spi.c:138:19:SPI_ReadMulti	32	static

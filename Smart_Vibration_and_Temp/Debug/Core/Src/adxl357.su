@@ -1,0 +1,2 @@
+../Core/Src/adxl357.c:12:6:ADXL357_Init	16	static
+../Core/Src/adxl357.c:19:19:ADXL357_ReadXYZ	48	static

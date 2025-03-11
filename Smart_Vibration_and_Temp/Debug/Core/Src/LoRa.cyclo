@@ -1,0 +1,2 @@
+../Core/Src/LoRa.c:10:6:LoRa_Init	2
+../Core/Src/LoRa.c:35:19:LoRa_Send	2

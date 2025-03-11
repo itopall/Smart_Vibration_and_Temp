@@ -1,0 +1,3 @@
+../Core/Src/WiFi.c:12:22:_sendATCommand	3
+../Core/Src/WiFi.c:29:15:WiFi_Init	4
+../Core/Src/WiFi.c:49:15:WiFi_SendHTTPRequest	4

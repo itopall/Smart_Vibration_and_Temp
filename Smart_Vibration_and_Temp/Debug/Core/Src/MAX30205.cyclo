@@ -1,0 +1,2 @@
+../Core/Src/MAX30205.c:12:6:MAX30205_Init	1
+../Core/Src/MAX30205.c:17:19:MAX30205_ReadTemp	2
